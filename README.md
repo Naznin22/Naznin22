@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😄 Pronouns: She/Her <br>
-🔭 I’m currently learning Struts, a java framework.
-👯 I’m looking for help with data science projects
-⚡ Fun fact: Love to watch animes! Wanna talk about it?
-📫 How to reach me: nazninhaque7622@gmail.com
+🔭 I’m currently learning Struts, a java framework <br>
+👯 I’m looking for help with data science projects <br>
+⚡ Fun fact: Love to watch animes! Wanna talk about it? <br>
+📫 How to reach me: <a> nazninhaque7622@gmail.com </a> <br>
 
