@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 😄 Pronouns: She/Her <br>
 🔭 I’m currently learning Struts, a java framework <br>
-👯 I’m looking to collaborate on interesting beginner friendly data science projects
+👯 I’m looking to collaborate on interesting beginner friendly data science projects <br>
 ⚡ Fun fact: Love to watch animes! Wanna talk about it? <br>
 📫 How to reach me: <a> nazninhaque7622@gmail.com </a> <br>
 
