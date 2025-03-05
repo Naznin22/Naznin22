@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naznin Haque</h1>
-<h3 align="center">A Software QA Engineer from Bangladesh</h3>
+<!--<h3 align="center">A Software QA Engineer from Bangladesh</h3> -->
 
-- 🔭 I’m currently working on **VQA**
+<!--- 🔭 I’m currently working on **VQA**
 
-- 💬 Ask me about **testing**
+- 💬 Ask me about **testing**) -->
 
 - ⚡ Fun fact **Love to play table tennis**
 
